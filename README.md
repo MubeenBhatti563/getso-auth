@@ -153,7 +153,7 @@ getso-auth-system
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/getso-auth.git
+git clone https://github.com/MubeenBhatti/getso-auth.git
 
 cd saas-authentication-system
 ```
