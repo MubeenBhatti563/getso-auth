@@ -30,7 +30,7 @@ A production-ready authentication system built with modern web technologies, fea
 
 ### Admin Dashboard
 
-![Admin](screenshots/admin-dashboard.png)
+![Admin](screenshots/admin_dashboard.png)
 
 ### Users Management
 
