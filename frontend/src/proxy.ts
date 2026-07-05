@@ -12,7 +12,7 @@ const publicRoutes = [
 
 const adminRoutes = ["/admin"];
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
   const isPublic = publicRoutes.some(
