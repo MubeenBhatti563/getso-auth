@@ -6,7 +6,7 @@ A production-ready authentication system built with modern web technologies, fea
 
 ## 🚀 Live Demo
 
-**Frontend:** Coming Soon
+**Frontend:** [Coming Soon](https://getso-auth.vercel.app/)
 
 **Backend API:** Coming Soon
 
